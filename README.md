@@ -44,7 +44,7 @@ We welcome contributions from the community! If you want to contribute, please f
 
 ## License
 
-SourceXtractor is released under the MIT license. See [LICENSE](https://github.com/rmonvfer/sourcextractor/blob/master/LICENSE) for more information.
+SourceXtractor is released under the GPLv3 license. See [LICENSE](https://github.com/rmonvfer/sourcextractor/blob/master/LICENSE) for more information.
 
 ## Credits
 
