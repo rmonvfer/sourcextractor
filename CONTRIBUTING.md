@@ -18,6 +18,7 @@ Please make sure your pull request follows the coding conventions used in the re
 Make sure your pull request passes all the tests, if your changes include modifications that changes the behavior of the package, make sure you include new tests.
 
 Make sure to update the documentation if your changes affect how the package is used.
-Code of Conduct
+
+## Code of Conduct
 
 Please make sure to follow the Code of Conduct when contributing.
