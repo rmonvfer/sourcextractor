@@ -40,13 +40,13 @@ This package requires `beautifulsoup4` and `requests`. These will be installed a
 
 ## How to Contribute
 
-We welcome contributions from the community! If you want to contribute, please follow our [contribution guidelines](https://github.com/user/sourcextractor/blob/master/CONTRIBUTING.md).
+We welcome contributions from the community! If you want to contribute, please follow our [contribution guidelines](https://github.com/rmonvfer/sourcextractor/blob/master/CONTRIBUTING.md).
 
 ## License
 
-SourceXtractor is released under the MIT license. See [LICENSE](https://github.com/user/sourcextractor/blob/master/LICENSE) for more information.
+SourceXtractor is released under the MIT license. See [LICENSE](https://github.com/rmonvfer/sourcextractor/blob/master/LICENSE) for more information.
 
 ## Credits
 
-SourceXtractor was created by [Your name](https://github.com/yourusername) and is maintained by the open-source community.
+SourceXtractor was created by [rmonvfer](https://github.com/rmonvfer) and is maintained by the open-source community.
 
